@@ -1,0 +1,2 @@
+rootProject.name = "back_end_manager"
+include ':app'
